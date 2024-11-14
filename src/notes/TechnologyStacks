@@ -1,0 +1,28 @@
+# prerequisites
+1. Learn intellij
+2. learn java on windows
+3. learn how to compile java through intellij on windows
+4. learn how to use java, maven, intellij, and windows
+5. learn mvn shade plugin
+6. learn wsl2 and how to use a terminal
+7. How to run python scripts in intellij
+8. Get postman set up
+9. Learn AWS from scratch - basics about everything
+10. How to use the json-simple package
+
+# universal features
+1. save game state
+2. high score table
+    a. aws lambda with dynamodb
+
+# java
+1. java swing with java webstart
+2. java swing with webswing
+3. javafx
+4. libgdx with html5
+5. TeaVM
+6. LWJGL
+7. java applet
+8. java servlet
+9. java JSP (java server page)
+10. java with thymeleaf
